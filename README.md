@@ -39,8 +39,15 @@ It is ideal for:
 
 ## Usage
 
-- Add devicedetails to device_list.txt
-- Define configuration commands in config_commands.txt
+- Add devicedetails to device_list.txt 
+- Add configuration commands in config_commands.txt
+- ## How to Run
+- 1. Clone this repository:
+     ```bash
+     git clone https://github.com/your-username/your-repo.git
+     cd your-repo
+- 2. Install required packages:
+  pip install -r requirements.txt
 - Run the script
 
 You can run the python automate_config.py command in a terminal or command-line interface, depending on your operating system:
